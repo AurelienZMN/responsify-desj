@@ -1,0 +1,53 @@
+{ "api": "1.0.0",
+  "id": "1243637764537651141",
+  "name": "Responsify-desj",
+  "main": "plugin.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+  "figma"
+],
+  "networkAccess": {
+  "allowedDomains": [
+    "none"
+  ]
+},
+  "menu": [
+  {
+    "name": "iPhone SE",
+    "command": "iPhoneSE"
+  },
+  {
+    "name": "iPhone 8",
+    "command": "iPhone8"
+  },
+  {
+    "name": "iPhone 13",
+    "command": "iPhone13"
+  },
+  {
+    "name": "iPhone 14",
+    "command": "iPhone14"
+  },
+  {
+    "name": "Android Pixel",
+    "command": "androidPixel"
+  },
+  {
+    "name": "Android Générique",
+    "command": "androidGenerique"
+  },
+  {
+    "name": "Android Samsung S20",
+    "command": "androidSamsungS20"
+  },
+  {
+    "name": "iPad",
+    "command": "iPad"
+  },
+  {
+    "name": "All devices (for whatever reason)",
+    "command": "all"
+  }
+]
+}
